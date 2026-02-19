@@ -1,5 +1,8 @@
 # WhatsApp Trigger - News Fetching and Email System
 
+[![Demo Video](https://img.youtube.com/vi/GdLrG5Vbanc/maxresdefault.jpg)](https://youtu.be/GdLrG5Vbanc)
+
+
 ## Overview
 This system integrates a WhatsApp trigger to fetch the latest news from India. Upon receiving a command like "send an email to abc@gmail.com," it:
 1. Fetches the latest news.
