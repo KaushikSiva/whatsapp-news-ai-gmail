@@ -50,9 +50,3 @@ Additionally, the system uses the DeepSeek model for ranking and news message ge
    Send a WhatsApp message with the command "send an email to abc@gmail.com."
    The system will fetch the latest news from India, rank the top 5 stories using Groq, and generate an email message.
    The email will be sent to the specified address (e.g., abc@gmail.com).
-   Video Recording
-   For a demonstration of how this system works, check out the video recording:
-
-## Video Recording
-[![VIDEO](https://img.youtube.com/vi/GdLrG5Vbanc/0.jpg)](https://www.youtube.com/watch?v=GdLrG5Vbanc)
-
